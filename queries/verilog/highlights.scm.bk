@@ -1,0 +1,21 @@
+(comment) @comment
+
+(constant_param_expression) @constant
+
+(data_type_or_implicit1) @property
+
+["class"
+ "new"
+ "virtual"
+ "always"
+ "always_ff"
+ "always_latch"
+ "module"
+ "endmodule"
+ "logic"] @keyword
+
+(port_direction) @function
+
+(parameter_port_list) @function
+
+(struct_union) @punctuation.special
